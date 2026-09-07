@@ -1,0 +1,41 @@
+{
+  "files": [
+    {
+      "_id": "1788754354415",
+      "name": "Screen Recording 2026-07-19 221924.mp4",
+      "size": 144829313,
+      "url": "http://localhost:5000/uploads/1788754352482-Screen Recording 2026-07-19 221924.mp4",
+      "isStarred": false,
+      "isTrashed": false
+    },
+    {
+      "_id": "1788754448229",
+      "name": "Screen Recording 2026-08-02 104127.mp4",
+      "size": 230051651,
+      "url": "http://localhost:5000/uploads/1788754445574-Screen Recording 2026-08-02 104127.mp4",
+      "isStarred": false,
+      "isTrashed": false,
+      "sharedLink": null
+    },
+    {
+      "id": "1788764606881",
+      "name": "Manasa_Resume.pdf",
+      "size": 117917,
+      "url": "http://localhost:5000/uploads/1788764606851-Manasa_Resume.pdf",
+      "isStarred": true,
+      "isTrashed": true,
+      "shared": true,
+      "role": "Editor"
+    }
+  ],
+  "folders": [
+    {
+      "_id": "1788753959319",
+      "name": "manasa"
+    },
+    {
+      "_id": "1788754347025",
+      "name": "renuka"
+    }
+  ]
+}
